@@ -7,4 +7,4 @@ export const Hero_Section_Cash_Image =
 export const Refer_ai =
   "https://s3-alpha-sig.figma.com/img/f8bf/9271/2c05e77a4b76d26c35bb05a554cb6838?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=WknF9S~GKCMLbkO8~auWf9lBB309mnuQexRJxICPEmHYH4I-w4DkY6ZSXj8gW8ChALNyB2dr~vKxk2GDfkBxVaJPZKNFDwqnqAJXRPxfVUA1-iWd89MMgIzhmiiC73lTQtAwb2GOsnKPCKdZxdnT3lduuWK7wzfMS0HpMPMYXfdKe9kaGBx0xsEgwO~iVwGTMyqTNriI4257M1HFnpfMBNuUU4qVXtcqbzcEFFxcxTSWn2RfGc44QjE9cf3iHQzUPzvIxnpggptvp1No6fDfoiWZG094Dlz1y71uLgX0RGMTg81BrOmvQg07b0RYEZlfxvJtgXvCOP6XknwGrNxFKw__";
 
-export const BASE_URL = "https://accredian-backend-task-w3w2.onrender.com/";
+export const BASE_URL = "https://accredian-backend-task-w3w2.onrender.com";
